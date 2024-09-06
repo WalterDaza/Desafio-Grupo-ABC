@@ -2,4 +2,24 @@ html {
     height: 100%;
     width: 100%;
   }
-  
+
+body{
+  background-color: rgb(207, 207, 207);
+}
+
+h3{
+  color: green;
+}
+
+.colorBlue{
+  color: blue;
+}
+
+#colorRed{
+  color: red;
+}
+
+#number{
+  font-size: 50px;
+  cursor: pointer;
+}
