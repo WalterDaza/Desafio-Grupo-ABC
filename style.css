@@ -23,3 +23,8 @@ h3{
   font-size: 50px;
   cursor: pointer;
 }
+.img-thumbnail {
+  width: 300px;
+  height: 300px;
+  object-fit: cover; /* Esto asegura que las imágenes se ajusten al contenedor sin distorsionar */
+}
